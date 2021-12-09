@@ -1,0 +1,39 @@
+{
+  "editor.autoIndent": "advanced",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "underline",
+  "editor.fontFamily": "Iosevka, monospace",
+  "editor.fontLigatures": "'cv73' 1, 'cv74' 1, 'cv75' 1, 'cv82' 2, 'cv88' 2, 'cv93' 3, 'calt' 0, 'JSPT' 1",
+  "editor.fontSize": 14,
+  "editor.guides.bracketPairs": true,
+  "editor.minimap.enabled": false,
+  "editor.rulers": [100],
+  "editor.suggest.preview": true,
+  "editor.suggestSelection": "first",
+  "editor.wordWrapColumn": 100,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.sortOrderLexicographicOptions": "upper",
+  "git.enableSmartCommit": true,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "underline",
+  "terminal.integrated.fontFamily": "Iosevka Term",
+  "workbench.colorCustomizations": {
+    // 8AC6D0 B8F3FF DEFFF2 63768D - Dolch Theme Dark
+    // "editorBracketHighlight.foreground1": "#63768D",
+    // "editorBracketHighlight.foreground2": "#8AC6D0",
+    // "editorBracketHighlight.foreground3": "#B8F3FF",
+    // "editorBracketHighlight.foreground4": "#DEFFF2",
+    // "editorBracketHighlight.unexpectedBracket.foreground": "#DB3A34"
+    // Github Theme Dark
+    "editorBracketHighlight.foreground1": "#cae8ff",
+    "editorBracketHighlight.foreground2": "#a5d6ff",
+    "editorBracketHighlight.foreground3": "#79c0ff",
+    "editorBracketHighlight.foreground4": "#58a6ff",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ffdcd7"
+  },
+  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.fontAliasing": "auto",
+  "workbench.iconTheme": "material-icon-theme"
+}
